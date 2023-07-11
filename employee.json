@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "fname": "John",
+      "lname": "Doe",
+      "age": 30,
+      "emp_id": "E123456"
+    },
+    {
+      "fname": "Jane",
+      "lname": "Smith",
+      "age": 35,
+      "emp_id": "E234567"
+    },
+    {
+      "fname": "Michael",
+      "lname": "Johnson",
+      "age": 28,
+      "emp_id": "E345678"
+    },
+    {
+      "fname": "Emily",
+      "lname": "Brown",
+      "age": 32,
+      "emp_id": "E456789"
+    },
+    {
+      "fname": "David",
+      "lname": "Williams",
+      "age": 27,
+      "emp_id": "E567890"
+    }
+  ]
+}
